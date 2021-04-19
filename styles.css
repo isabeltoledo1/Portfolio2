@@ -120,6 +120,25 @@ main {
   border: 0;
 }
 
+.submit-btn1{
+  
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: lighter;
+  color: #fff;
+  background-color: #909494;
+  border: 0;
+}
+.submit-btn2{
+ 
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: lighter;
+  color: #fff;
+  background-color: #909494;
+  border: 0;
+}
+
 .submit-btn:hover {
   opacity: .7;
 }
