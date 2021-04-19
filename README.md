@@ -6,7 +6,7 @@
   
 ### Deployed Link
     
- 
+ https://isabeltoledo1.github.io/Portfolio2/
 
 
 ### Installation
