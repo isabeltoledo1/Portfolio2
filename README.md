@@ -1,7 +1,7 @@
 # Responsive Portfolio 2 💼
 
 
-![](assets/portfolio.png)
+
 
   
 ### Deployed Link
